@@ -2,3 +2,4 @@ streamlit
 langchain
 ctransformers
 regex
+langchain_community
